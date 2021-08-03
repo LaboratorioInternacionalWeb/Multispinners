@@ -1,5 +1,13 @@
-> Console multi line spinner no dependecies
+[![Header](https://raw.githubusercontent.com/LaboratorioInternacionalWeb/Multispinners/main/shared/readme_header.png "Header")](https://labweb.mx/)
 
+### Install
+```
+npm install multispinners
+```
+
+<img src="https://raw.githubusercontent.com/LaboratorioInternacionalWeb/Multispinners/main/shared/Example.gif">
+
+### Usage
 ```Javascript
     const  multiSpinner = require('multispinners')
     const  ms = new  multiSpinner()
