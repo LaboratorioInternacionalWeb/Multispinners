@@ -1,0 +1,46 @@
+{
+  "name": "multispinners",
+  "version": "1.0.0",
+  "description": "Multi terminal spinner no dependenies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaboratorioInternacionalWeb/Multispinners/issues"
+  },
+  "homepage": "https://github.com/LaboratorioInternacionalWeb/Multispinners#readme",
+	"author": {
+		"name": "Víctor Osornio",
+		"email": "victor@labweb.mx",
+		"url": "https://labweb.mx"
+	},
+  "keywords": [
+		"cli",
+		"spinner",
+		"spinners",
+		"terminal",
+		"term",
+		"console",
+		"ascii",
+		"unicode",
+		"loading",
+		"indicator",
+		"progress",
+		"busy",
+		"wait",
+		"idle",
+    "multi",
+    "multispinner",
+    "spinner",
+    "spinners",
+    "loader",
+    "loading-bar",
+    "command-line",
+    "command",
+    "lightweight",
+    "thin"
+	],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LaboratorioInternacionalWeb/Multispinners"
+  }
+}
