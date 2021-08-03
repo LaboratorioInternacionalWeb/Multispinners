@@ -1,4 +1,12 @@
+![npm](https://img.shields.io/badge/version-1.0.0-blue)
+![npm](https://img.shields.io/npm/dw/localeval.svg?style=flat-square)
+![Maintained](	https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
 [![Header](https://raw.githubusercontent.com/LaboratorioInternacionalWeb/Multispinners/main/shared/readme_header.png "Header")](https://labweb.mx/)
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Install
 ```
