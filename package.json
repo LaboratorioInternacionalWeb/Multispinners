@@ -1,7 +1,7 @@
 {
   "name": "multispinners",
   "version": "1.0.0",
-  "description": "Multi terminal spinner no dependenies",
+  "description": "Console multi line spinner no dependecies",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/LaboratorioInternacionalWeb/Multispinners/issues"
